@@ -14,3 +14,5 @@
 - en dehors de l'aspect professionnel, la sécurité informatique concerne tout le monde, y compris les simples particuliers
 
 ## Démarrer en sécurité informatique
+
+- il est possible d'utiliser des **IP loggers** qui vont modifier une URL et collecter les adresses IP des utilisateurs que l'on peut suivre pour savoir uqi a utilisé le lien
